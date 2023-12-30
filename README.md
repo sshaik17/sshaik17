@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 
+
+I'm Shaan Shaikh. I'm a fellow at CSIS's International Security Program, where I conduct research on missiles, air defense, and nuclear weapons. I'm also second-year MA student at the Johns Hopkins School of Advanced International Studies (SAIS), concentrating in strategic studies and research methods. My non-work hobbies include Islamic studies, weightlifting & yoga, and reading.
+
+I hope to center my career around developing, fueling, and implementing good public policy, through think tanks, the U.S. government, or otherwise. My experience thus far focuses on defense policy, but I'm interested in supporting any public policy field, from transportation to law enforcement. More broadly, I'd like to make positive, lasting impact wherever I go.
+
+I've developed a GitHub account to expand my data analysis and visualization skills.
 
 <!--
 **sshaik17/sshaik17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
