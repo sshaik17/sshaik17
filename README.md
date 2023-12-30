@@ -4,7 +4,7 @@ I'm Shaan Shaikh. I'm a fellow at CSIS's International Security Program, where I
 
 I hope to center my career around developing, fueling, and implementing good public policy, through think tanks, the U.S. government, or otherwise. My experience thus far focuses on defense policy, but I'm interested in supporting any public policy field, from transportation to law enforcement. More broadly, I'd like to make positive, lasting impact wherever I go.
 
-I've developed a GitHub account to expand my data analysis and visualization skills.
+I've developed a GitHub account to expand my data analysis and visualization skills. More specifically, I'd like to gain proficiency in making maps (ArcGIS or alternative GIS programs, to copy NYT/BBC/FT-style graphics), web-scraping, and general data visualization (R, Python, SQL, Tableau, Illustrator, JavaScript). My projects will use datasets from the U.S. Census, Open Data DC, Pew/Gallup surveys, DoD/State Department budgets, and crisis simulations and wargames.
 
 <!--
 **sshaik17/sshaik17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
